@@ -1,1 +1,1 @@
-# Business-Analytics-Applied_AI
+# Soukswanh Phommala — Business Analytics and Applied AI 
