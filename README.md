@@ -16,10 +16,45 @@ My goal is to build on my marketing and analytics background and transition into
 
 ### Skills
 
-**Analytics & Data:** SQL · Python · R · Excel · Google Data Studio · Google Analytics 4 · Google Search Console · Statistical Analysis
+My technical skill set combines professional experience in digital performance analytics with skills I am developing through my M.S. in Business Analytics & Applied AI. My current areas of development include programming, predictive analytics, machine learning, and applied AI, with a focus on learning how these tools can be used to solve real-world business problems.
 
-**Reporting & Marketing Analytics:** KPI Reporting · Dashboard Development · Campaign Performance Reporting · Conversion Rate Optimization · Technical SEO · On-Page & Off-Page SEO · Keyword Research
+**Programming & Querying**
 
-**Applied AI & Business Analytics:** Predictive Modeling · Machine Learning · Generative AI · Large Language Models (LLMs) · Agentic AI
+- SQL
+- Python
+- R
 
+**Business Analytics**
 
+- Predictive modeling
+- Statistical analysis
+- Regression analysis
+- Data analysis
+- Business intelligence
+- Performance analytics
+
+**AI & Machine Learning**
+
+- Applied AI
+- Large language models (LLMs)
+- Generative AI applications
+- Agentic AI concepts
+- Machine learning fundamentals
+
+**Data Visualization & Reporting**
+
+- Google Data Studio
+- Pandas
+- Dashboard development
+- KPI reporting
+- Performance reporting
+
+**Marketing Analytics**
+
+- SEO analytics
+- Digital performance analysis
+- Campaign performance analysis
+- Conversion rate optimization
+- Google Analytics 4
+- Google Search Console
+- Performance marketing
